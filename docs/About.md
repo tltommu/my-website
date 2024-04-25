@@ -79,7 +79,7 @@ Intro to MD syntax done, moving forward to docusaraus config
 
 Navbar configuration 
 
-Locate `docusaurus.config.mjs`
+Locate `docusaurus.config.js`
 with in the file `.docusaurus`
 find the code
 ```
@@ -241,3 +241,4 @@ const Aboutnotmd = () => {
 
 export default Aboutnotmd
 ```
+
