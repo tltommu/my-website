@@ -56,7 +56,7 @@ sns.heatmap(pd.get_dummies(Train_data.drop("id",axis=1)).corr(),annot=True)
 ```
 
 Output
-![img](\img\kaggle-snsheatmap.svg)
+![img](\img\Kaggle-snsheatmap.svg)
 
 ---
 
